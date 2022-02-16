@@ -1,0 +1,715 @@
+Cmp-Mod V01 Created by PcbNew   date = Wednesday, February 02, 2022 at 06:34:33 PM
+
+BeginCmp
+TimeStamp = 4305f541-0caa-471e-8141-5aa18fc33633
+Path = 
+Reference = D512;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 4809fc2e-38a2-4990-acba-8698c3d7fd40
+Path = 
+Reference = D502;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = ac1f59ae-9ca1-458f-8a70-7a1cb4330682
+Path = 
+Reference = D412;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f60b4ff-8609-4ae3-a16a-4d97f20b11cf
+Path = 
+Reference = D410;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = e4de01a2-ffa5-43ad-b081-167c99057eb2
+Path = 
+Reference = D408;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 22b9321e-1ac6-41e1-ace6-7c3603f6ec1f
+Path = 
+Reference = D406;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = b6d1c894-d401-4252-8dd0-8ab2696195c1
+Path = 
+Reference = D404;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 0c3e1789-22f1-49dc-9207-61130b8786da
+Path = 
+Reference = D402;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 03ed6b54-40ee-4cb2-869d-34057e77214e
+Path = 
+Reference = D312;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = fa2c6302-5dd2-4aff-9375-96da015b7d0e
+Path = 
+Reference = D310;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 69afd9c7-dd05-489b-93dd-22fb10328f54
+Path = 
+Reference = D308;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 339d04f9-c304-4aea-be7b-e3f6b4c9179b
+Path = 
+Reference = D306;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 7bf92174-1795-4aa0-ae0b-8757829e47da
+Path = 
+Reference = D304;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 0eb6a474-9855-45f4-bcbd-703aef8b906a
+Path = 
+Reference = D302;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = fad71acb-9464-4186-bf18-509e476f3dd8
+Path = 
+Reference = D212;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5dc0c130-c1aa-403d-b4bc-ca6e7581eec5
+Path = 
+Reference = D210;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = d17e047f-05ae-4a16-8df9-973ce45cf5ad
+Path = 
+Reference = D208;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 0a7df0a9-1c4f-414d-8cf5-c41d5a81d977
+Path = 
+Reference = MX509.7;
+ValeurCmp = 7U;
+IdModule  = MX_Only:MXOnly-7U-Hotswap-ReversedStabilizers;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c1e3723-766e-497d-9265-7acf2ca4701c
+Path = 
+Reference = MX509;
+ValeurCmp = 2.25U;
+IdModule  = MX_Only:MXOnly-2.25U-Hotswap-ReversedStabilizers;
+EndCmp
+
+BeginCmp
+TimeStamp = 5c24a13b-afeb-40f4-a3d2-1f9f3581c938
+Path = 
+Reference = MX510;
+ValeurCmp = 2.75U;
+IdModule  = MX_Only:MXOnly-2.75U-Hotswap-ReversedStabilizers;
+EndCmp
+
+BeginCmp
+TimeStamp = 48fba6e6-a981-4aff-a985-1379ba01effb
+Path = 
+Reference = MX502;
+ValeurCmp = 2U;
+IdModule  = MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f5fdd85-409f-42d5-9313-c2470abe12d0
+Path = 
+Reference = MX401;
+ValeurCmp = 2.25U;
+IdModule  = MX_Only:MXOnly-2.25U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = d73cbae5-9ab3-415c-a71d-ddcea3996abc
+Path = 
+Reference = MX511;
+ValeurCmp = 1.75U;
+IdModule  = MX_Only:MXOnly-1.75U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = b1fe4c9f-4256-4748-9fd3-8cf3f4ec1cd9
+Path = 
+Reference = MX411;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 7ed41555-72c9-4172-806a-a1159c0955ff
+Path = 
+Reference = MX410;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 4e6bcc4c-8a62-45bc-8157-21c59b53b793
+Path = 
+Reference = MX409;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = eb150ba0-f9ac-4291-a186-1a22af0ec0c3
+Path = 
+Reference = MX408;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = d1b22f36-83ec-4f65-a686-62653e17ee0e
+Path = 
+Reference = MX407;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 64036b0f-e4a5-431b-86c2-94d1df6345da
+Path = 
+Reference = MX406;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 03f0f216-4d35-4273-9476-4a678596462d
+Path = 
+Reference = MX405;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 6f1e3905-5362-40f5-8e51-681c20111342
+Path = 
+Reference = MX404;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 890e9c6e-a8d3-4eff-a3cd-a5b03c965885
+Path = 
+Reference = MX403;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 3b82566e-c2f8-4923-9499-62e444b3260b
+Path = 
+Reference = MX402;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = ddeafc40-7b8b-457a-9a34-023ac07b9d62
+Path = 
+Reference = MX401.125;
+ValeurCmp = 1.25U;
+IdModule  = MX_Only:MXOnly-1.25U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 72e83158-7ca3-42fe-bf23-6759e5cb5075
+Path = 
+Reference = MX412.2;
+ValeurCmp = ISO;
+IdModule  = MX_Only:MXOnly-ISO-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 613b0f1e-a2ac-4653-85a8-0a80d1dc455f
+Path = 
+Reference = MX412;
+ValeurCmp = 1.25U;
+IdModule  = MX_Only:MXOnly-1.25U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = e0dca9b7-f44a-4fbc-92a2-b0e90b20a927
+Path = 
+Reference = MX311;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = bc092c4f-4a67-4ac1-820e-ac7f345eee98
+Path = 
+Reference = MX310;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 6deb98df-6ba9-4c5a-bc4f-5f7c36e6515b
+Path = 
+Reference = MX309;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = cdd447cc-e356-4422-a788-2aff31ce0221
+Path = 
+Reference = MX308;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = d34c241c-8b06-4709-86a1-f4f7c3ed790a
+Path = 
+Reference = MX307;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = de981cd9-6ef1-48f0-8e97-fbb6b7490990
+Path = 
+Reference = MX306;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 57d383bc-9711-4610-be9f-ee623fd2809b
+Path = 
+Reference = MX305;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 6c265003-1f9e-4046-9ec5-0467b695efb6
+Path = 
+Reference = MX304;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 3be87cc5-1aea-43e0-90b8-a0b8c2f8fecc
+Path = 
+Reference = MX303;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = b5e40adf-0af9-4d95-b37f-6b4d4c15bacf
+Path = 
+Reference = MX302;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = cbb9616f-ddac-4de1-a1eb-bfcf97ffea00
+Path = 
+Reference = MX301.125;
+ValeurCmp = 1.25U;
+IdModule  = MX_Only:MXOnly-1.25U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 57f2584e-2287-42ec-8fcb-284dacd6ae88
+Path = 
+Reference = MX301;
+ValeurCmp = 1.75U;
+IdModule  = MX_Only:MXOnly-1.75U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = c157d72a-9058-4d2c-a239-c24f6b0b203a
+Path = 
+Reference = MX312;
+ValeurCmp = 1.5U;
+IdModule  = MX_Only:MXOnly-1.5U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = e2ce97ed-220e-4469-b338-bd1af40e1bb6
+Path = 
+Reference = MX211;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = aa0d7a60-b96c-4283-a24a-feb04078c70b
+Path = 
+Reference = MX210;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 1eb35457-e836-4ea6-a64f-1a6f1b73f965
+Path = 
+Reference = MX209;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5a465da7-6f77-4bd8-a2c4-c32576b5a974
+Path = 
+Reference = MX208;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 233d9294-e2a8-4276-a643-1b935640b0b8
+Path = 
+Reference = MX207;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 60a17b36-193e-434b-9cac-7bfe8c08d73e
+Path = 
+Reference = MX206;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 2eb8c36b-f75a-494f-9c7b-ec4a0cf48b96
+Path = 
+Reference = MX205;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = fae8b949-f43d-4780-829d-7db94422b7d2
+Path = 
+Reference = MX204;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 6631145f-b0fb-407e-85e9-19bbb524f90b
+Path = 
+Reference = MX203;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 3c347d80-6bcf-41b5-a713-94b8ccd92330
+Path = 
+Reference = MX202;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = dc680818-59ed-433e-9f8d-6e4670402247
+Path = 
+Reference = MX201;
+ValeurCmp = 1.5U;
+IdModule  = MX_Only:MXOnly-1.5U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 443068a9-615e-45ce-810d-2684090fbb2c
+Path = 
+Reference = MX112.2;
+ValeurCmp = 2U;
+IdModule  = MX_Only:MXOnly-2U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 8e38c66d-7ce5-42d3-bf03-3f79d1f2c437
+Path = 
+Reference = MX212;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = d02320ec-89c1-46de-b378-843ac7a32598
+Path = 
+Reference = MX112;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 78e4ec1b-1fe2-4b83-af29-5ba56cc4e84a
+Path = 
+Reference = MX111;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = c2eb4778-c8c7-4370-885c-140204857271
+Path = 
+Reference = MX110;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 8df84eea-3b6a-43d6-b0a8-f533c6c90f94
+Path = 
+Reference = MX109;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 3ef53b79-bade-42ea-9987-a3ec5ba8e832
+Path = 
+Reference = MX108;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 2350124d-3714-48c3-91ca-86328bf52371
+Path = 
+Reference = MX107;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = de268494-d8df-4048-8e82-8343b42749bc
+Path = 
+Reference = MX106;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = fba6a8dd-8141-4a80-a59b-519763a00cee
+Path = 
+Reference = MX105;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = de0c5418-a3fd-44ec-b714-98a3b092f8b8
+Path = 
+Reference = MX104;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 8d900cb9-5976-4c28-a780-96efe0a4d5e0
+Path = 
+Reference = MX103;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 80564b3e-d87e-4eaa-8a0e-ee30eb2b5c37
+Path = 
+Reference = MX102;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 9745dc53-6231-4cc1-afa9-b7210f40ddcd
+Path = 
+Reference = MX101;
+ValeurCmp = 1U;
+IdModule  = MX_Only:MXOnly-1U-Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 82c38feb-81d2-4ea2-9899-b684207594af
+Path = 
+Reference = D206;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = daa022d3-e3a6-4690-b5ff-395e88902025
+Path = 
+Reference = D204;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 3599987d-dd58-415c-81c6-0f3c5336daee
+Path = 
+Reference = D202;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = b0004d16-71eb-430e-94d1-0e537eecbbbc
+Path = 
+Reference = D112;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 005aad8e-c331-41a0-a54f-e5309c3b74e2
+Path = 
+Reference = D110;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 1df7f17f-4061-4476-b7e7-75ad29b9f3e5
+Path = 
+Reference = D108;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = cf6b464d-ac16-497b-b326-18f91c8c570e
+Path = 
+Reference = D106;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061f9612a
+Path = 
+Reference = D104;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061f8fa29
+Path = 
+Reference = D102;
+ValeurCmp = 2N7002;
+IdModule  = Keebio-Parts:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061f88492
+Path = 
+Reference = SWR1;
+ValeurCmp = Rotary_Encoder_Switch;
+IdModule  = Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061f88369
+Path = 
+Reference = SWR2;
+ValeurCmp = Rotary_Encoder_Switch;
+IdModule  = Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061f879ad
+Path = /00000000-0000-0000-0000-000060f4a524
+Reference = J2;
+ValeurCmp = OLED;
+IdModule  = Custom_Footprints:SSD1306_OLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061f8ad6f
+Path = /00000000-0000-0000-0000-000060f4a524
+Reference = J1;
+ValeurCmp = OLED;
+IdModule  = Custom_Footprints:SSD1306_OLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061f9088d
+Path = 
+Reference = U1;
+ValeurCmp = Elite-C;
+IdModule  = Keebio-Parts:Elite-C;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000601ef5c4
+Path = /00000000-0000-0000-0000-0000601d63c1
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = Keebio-Parts:SW_Tactile_SPST_Angled_MJTP1117;
+EndCmp
+
+EndListe
