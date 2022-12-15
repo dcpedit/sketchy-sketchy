@@ -46,6 +46,8 @@ These are the layers that are labeled in the Illustrator file.  All the layer sh
 
 ## Assembly Steps
 
+![sketchy-build-7](https://user-images.githubusercontent.com/800930/207948088-fd8f5d49-2ebf-4880-9664-c6417fa599a6.jpg)
+
 ### Solder diodes
 
 Place a dab of solder on the single bottom pad of the diode on the PCB.  Then using tweesers, position the diode so that the legs line up with the pads.  Then using the point of one tweeser leg, gently hold the top of the diode in place while melting the dab of solder that was placed on the bottom pad previously.  With the diode now held in position, solder the top two legs to their respective pads.
@@ -53,6 +55,8 @@ Place a dab of solder on the single bottom pad of the diode on the PCB.  Then us
 ### Solder switch sockets
 
 Place some solder on one of the hot swap socket pads.  There should ben enough solder to make a small mound.  Place the socket into position and melt the mound of solder that was previously added while pressing down on the center of the socket.  Be sure to avoid touching any metalic parts to prevent burns.  Keep the soldering iron on the pad long enough for the solder to flow around the socket connector (usually around 3 to 4 seconds).  Now solder the other socket connector to the pad.
+
+![sketchy-build-6](https://user-images.githubusercontent.com/800930/207948175-3f9875d8-091d-4845-bfe7-48ed24d35dd0.jpg)
 
 ### Solder OLED headers
 
@@ -75,6 +79,10 @@ Place the 3.5mm plate foam on top of the PCB.  It's hard to find EVA foam in tha
 Position the 1.5mm switch plate over the foam and make sure the switch holes are lined up.  Check that the switch pins are straight, and push the switches squarely into the holes.
 
 ## Case Assembly
+![sketchy-feet-1](https://user-images.githubusercontent.com/800930/207949373-02d87c01-9e11-4b48-94fd-5a5d42ab4cab.jpg)
+
+
+![sketchy-build-1](https://user-images.githubusercontent.com/800930/207948197-bd39a1cf-4111-4e6f-92b0-35dd0a09541d.jpg)
 
 ### Layer #11
 
@@ -84,19 +92,31 @@ Attach 4 M2x24mm standoffs to this layer with 4 M2x6mm screws.
 
 Line the top holes up with the standoffs and place it on top.
 
+![sketchy-build-2](https://user-images.githubusercontent.com/800930/207948272-55f1b34d-2ff0-4309-a3bd-038a81bf0c35.jpg)
+
+
 ### Layer #9
+
+![sketchy-build-2](https://user-images.githubusercontent.com/800930/207949425-0f32b102-9c0d-41ed-bc6a-fd235a7bd016.jpg)
 
 Attach 2 M2x18mm standoffs to this layer with 2 M2x6mm screws.  Line the top holes up with the standoffs and place it on top.
 
 ### Layer #8
 
+![sketchy-build-3](https://user-images.githubusercontent.com/800930/207949472-00452b6f-5e24-41b2-90d1-66755e92e94c.jpg)
+
 Line the top holes up with the standoffs and place it on top.
 
 ### Layer #7 (Case bottom)
 
+![sketchy-build-4](https://user-images.githubusercontent.com/800930/207949495-50a83cf5-d595-444d-a2af-43b347385091.jpg)
+
+
 Attach 4 M2x23mm standoffs to this layer with 4 M2x6mm screws.  Line the holes up with the standoffs and place it on top.
 
 ### Layer #6
+
+![sketchy-build-5](https://user-images.githubusercontent.com/800930/207949569-81c38ca7-8b9d-444f-90ab-47911f198693.jpg)
 
 Line the holes up with the standoffs and place it on top.
 
@@ -110,9 +130,16 @@ Position case foam along the bottom of the case.
 
 ### Rotary encoder spacers
 
+![sketchy-build-12](https://user-images.githubusercontent.com/800930/207949631-39fea5f3-0f1e-4257-81f0-663bc3cd204a.jpg)
+
 The purpose of the spacers is to provide support from the bottom and prevent the PCB from flexing when pushing down on the rotary encoders.  I used 1.5mm acrylic, but you can also cut your own foam or cardstock.
 
 ### Layer #4b
+
+![sketchy-build-8](https://user-images.githubusercontent.com/800930/207949793-d5e41d8c-d8ce-40f4-9579-3e8c360349b9.jpg)
+![sketchy-build-9](https://user-images.githubusercontent.com/800930/207949816-cf48f999-dbf8-4f5b-98e9-faea3a99fbeb.jpg)
+![sketchy-build-10](https://user-images.githubusercontent.com/800930/207949829-46664d79-c979-41de-842a-6ecf78910021.jpg)
+![sketchy-build-11](https://user-images.githubusercontent.com/800930/207949846-0b1f856c-c7db-4b17-8225-3be703df6fe9.jpg)
 
 Line the holes up with the standoffs and place it on top.
 
@@ -122,9 +149,14 @@ Lift the previous 2 layers up a little so that you can slip the MCU underneath f
 
 ### Layer #2 - #3
 
+![sketchy-build-14](https://user-images.githubusercontent.com/800930/207949927-f3e30309-b8a5-4a67-9133-5d3bb47b06c4.jpg)
+
 Line the holes up with the standoffs and place it on top.  These 2 layers are identical, so order doesn't matter.
 
 ### Layer #1
+
+![sketchy-build-15](https://user-images.githubusercontent.com/800930/207949951-133150ee-9904-4fe5-8005-47f3a8c98284.jpg)
+
 
 The layer named `#1 Top Layer Clear` has no OLED cutouts because you're expected to use a transparent layer for the displays can be visible.  If you're not using a transparent layer, use `#1 Top Layer` since that version has cutouts for the display.
 
