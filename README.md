@@ -1,3 +1,5 @@
+![sketchy-7](https://user-images.githubusercontent.com/800930/207947738-b0805c0e-bf81-4e28-bb94-85b2f47825f1.jpg)
+
 # Sketchy-Sketchy Keyboard
 
 Below are some features of this keyboard:
@@ -12,6 +14,9 @@ Below are some features of this keyboard:
 The OLED screens are not individually programmable. They’re tied to the same I2C outputs, so they just mirror each other.
 
 ## Supported layouts
+
+<img width="600" alt="sketchy-layout" src="https://user-images.githubusercontent.com/800930/207947785-c04679b6-8af0-4c19-ba89-acc0ac384ab6.png">
+
 [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/60673d2fd57cbc973ed444a9bf7b8208)
 
 ## Firmware ([Vial](https://get.vial.today))
