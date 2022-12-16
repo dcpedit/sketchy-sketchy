@@ -20,3 +20,7 @@ The OLED screens are not individually programmable. They’re tied to the same I
 [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/60673d2fd57cbc973ed444a9bf7b8208)
 
 ## Firmware ([Vial](https://get.vial.today))
+
+The firmware source can be found in my fork of vial-qmk:
+
+https://github.com/dcpedit/vial-qmk/tree/vial/keyboards/dcpedit/sketchy

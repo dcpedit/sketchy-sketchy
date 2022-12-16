@@ -7,6 +7,7 @@ This guide is based on the exact build that is pictured above.  Feel free to cus
 | Elite-C | 1 | Microcontroller |
 | MCU headers | 2 | 1x12 pin (Mill Max 310-93-112-41-001000) |
 | MCU pins | 24 | round (Mill Max 3320-0-00-15-00-00-03-0) |
+| Reset button | 1 | [MJTP1117](https://www.mouser.com/ProductDetail/642-MJTP1117)
 | Diodes | 27 | BAV70 SMD |
 | Switch sockets | 46-49 | Kailh hot swap sockets |
 | OLED | 2 | SSD1306 128x32 |
@@ -29,7 +30,7 @@ These are the layers that are labeled in the Illustrator file.  All the layer sh
 
 | Layer Name | Count | Description |
 | ---- | ----- | ----------- |
-| #1 Top Layer Clear | 1 | 3mm thickness (transparent) |
+| #1 Top Layer | 1 | 3mm thickness |
 | #2 - #3 Top Spacers | 2 | 3mm thickness |
 | #4a Plate 1.5mm | 1 | 1.5mm thickness |
 | #4b Plate Spacer 1.5mm | 1 | 1.5mm thickness |
@@ -56,44 +57,45 @@ Place a dab of solder on the single bottom pad of the diode on the PCB.  Then us
 
 Place some solder on one of the hot swap socket pads.  There should ben enough solder to make a small mound.  Place the socket into position and melt the mound of solder that was previously added while pressing down on the center of the socket.  Be sure to avoid touching any metalic parts to prevent burns.  Keep the soldering iron on the pad long enough for the solder to flow around the socket connector (usually around 3 to 4 seconds).  Now solder the other socket connector to the pad.
 
-![sketchy-build-6](https://user-images.githubusercontent.com/800930/207948175-3f9875d8-091d-4845-bfe7-48ed24d35dd0.jpg)
-
-### Solder OLED headers
-
-There's only 10mm of space between the PCB and the clear acrylic guard, so the OLED + header cannot exceed this height.  For this build, I had to dremel/sand the plastic part of the header down to about 7mm.  I also had to remove the plastic spacer on the OLED pins and clip the pins to fit into the shorter header.  Insert the display into the header and make sure the total height is under 10mm before soldering the header onto the front of the PCB.
-
 ### Solder MCU headers and pins
 
 Place the two 1x12 headers on the bottom of the PCB and solder them into place.  The headers will need to be tall enought to clear the hot swap socket, but also not add too much height to the PCB.
 
 Now place a piece of masking tape over the headers and insert the pins into each hole.  Place the MCU over the pins (components facing down towards the PCB) and make sure it's seated flush against the masking tape.  You can now solder the pins.  Once the joints have cooled, SLOWLY wedge your fingertips into the gap under the MCU on BOTH sides until it's free from the header.  Pulling too hard and unevenly may bend the pins when one side suddenly becomes free.  With the MCU removed, you can now remove the masking tape.
 
+### Solder reset button
+
+Button goes on the bottom of the PCB.
+
+### Solder OLED headers
+
+![sketchy-build-6](https://user-images.githubusercontent.com/800930/207948175-3f9875d8-091d-4845-bfe7-48ed24d35dd0.jpg)
+
+There's only 10mm of space between the PCB and the top layer, so the OLED + header cannot exceed this height.  For this build, I had to dremel/sand the plastic part of the header down to about 7mm.  I also had to remove the plastic spacer on the OLED pins and clip the pins to fit into the shorter header.  Insert the display into the header and make sure the total height is under 10mm before soldering the header onto the front of the PCB.
+
+Start with one pin and place a small amount of solder to just hold it in place.  Make sure the display is straight and that the display is parallel to the PCB before soldering the other pins.
+
+### Solder rotary encoders
+
+Insert rotary into the front of the PCB and bend all the pins inwards. After soldering the pins, you can also bend the 2 metal support flaps inwards as well.
+
 ### Install stabalizers
 
-### Install plate foam
-
-Place the 3.5mm plate foam on top of the PCB.  It's hard to find EVA foam in that thickness, so I just used a 1.5mm piece on top of a 2mm piece which adds up to the same thickness.
-
-### Install switch plate & switches
-
-Position the 1.5mm switch plate over the foam and make sure the switch holes are lined up.  Check that the switch pins are straight, and push the switches squarely into the holes.
 
 ## Case Assembly
-![sketchy-feet-1](https://user-images.githubusercontent.com/800930/207949373-02d87c01-9e11-4b48-94fd-5a5d42ab4cab.jpg)
 
-
-![sketchy-build-1](https://user-images.githubusercontent.com/800930/207948197-bd39a1cf-4111-4e6f-92b0-35dd0a09541d.jpg)
 
 ### Layer #11
+
+![sketchy-feet-1](https://user-images.githubusercontent.com/800930/207949373-02d87c01-9e11-4b48-94fd-5a5d42ab4cab.jpg)
 
 Attach 4 M2x24mm standoffs to this layer with 4 M2x6mm screws.
 
 ### Layer #10
 
+![sketchy-build-1](https://user-images.githubusercontent.com/800930/207948197-bd39a1cf-4111-4e6f-92b0-35dd0a09541d.jpg)
+
 Line the top holes up with the standoffs and place it on top.
-
-![sketchy-build-2](https://user-images.githubusercontent.com/800930/207948272-55f1b34d-2ff0-4309-a3bd-038a81bf0c35.jpg)
-
 
 ### Layer #9
 
@@ -120,10 +122,6 @@ Attach 4 M2x23mm standoffs to this layer with 4 M2x6mm screws.  Line the holes u
 
 Line the holes up with the standoffs and place it on top.
 
-### Layer #5
-
-Line the holes up with the standoffs and place it on top.
-
 ### Case foam
 
 Position case foam along the bottom of the case.
@@ -134,18 +132,31 @@ Position case foam along the bottom of the case.
 
 The purpose of the spacers is to provide support from the bottom and prevent the PCB from flexing when pushing down on the rotary encoders.  I used 1.5mm acrylic, but you can also cut your own foam or cardstock.
 
-### Layer #4b
+### PCB
 
 ![sketchy-build-8](https://user-images.githubusercontent.com/800930/207949793-d5e41d8c-d8ce-40f4-9579-3e8c360349b9.jpg)
-![sketchy-build-9](https://user-images.githubusercontent.com/800930/207949816-cf48f999-dbf8-4f5b-98e9-faea3a99fbeb.jpg)
-![sketchy-build-10](https://user-images.githubusercontent.com/800930/207949829-46664d79-c979-41de-842a-6ecf78910021.jpg)
-![sketchy-build-11](https://user-images.githubusercontent.com/800930/207949846-0b1f856c-c7db-4b17-8225-3be703df6fe9.jpg)
+
+
+
+### Layer #5
 
 Line the holes up with the standoffs and place it on top.
 
+### Layer #4b and plate foam
+
+![sketchy-build-10](https://user-images.githubusercontent.com/800930/207949829-46664d79-c979-41de-842a-6ecf78910021.jpg)
+
+Line the holes up with the standoffs and place it on top.
+
+Place the 3.5mm plate foam on top of the PCB.  It's hard to find EVA foam in that thickness, so I just used a 1.5mm piece on top of a 2mm piece which adds up to the same thickness.
+
 ### Layer #4a
 
-Lift the previous 2 layers up a little so that you can slip the MCU underneath first.  Then line up the standoff holes and place the plate layer on top.
+![sketchy-build-11](https://user-images.githubusercontent.com/800930/207949846-0b1f856c-c7db-4b17-8225-3be703df6fe9.jpg)
+
+*NOTE: Image above is a prototype plate which uses plate mount stabalizers.  The plate in the repository file uses PCB mount stabalizers.*
+
+Position the 1.5mm switch plate over the foam and make sure the switch holes are lined up.  Check that the switch pins are straight, and push the switches squarely into the holes.
 
 ### Layer #2 - #3
 
@@ -158,7 +169,7 @@ Line the holes up with the standoffs and place it on top.  These 2 layers are id
 ![sketchy-build-15](https://user-images.githubusercontent.com/800930/207949951-133150ee-9904-4fe5-8005-47f3a8c98284.jpg)
 
 
-The layer named `#1 Top Layer Clear` has no OLED cutouts because you're expected to use a transparent layer for the displays can be visible.  If you're not using a transparent layer, use `#1 Top Layer` since that version has cutouts for the display.
+The layer named `#1 Top Layer Clear` has no OLED cutouts because you're expected to use a transparent layer for the displays to be visible.  If you're not using a transparent layer, use `#1 Top Layer` since that version has cutouts for the display.
 
 ### Top screws
 
