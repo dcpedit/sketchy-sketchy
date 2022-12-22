@@ -154,7 +154,7 @@ Place the 3.5mm plate foam on top of the PCB.  It's hard to find EVA foam in tha
 
 ![sketchy-build-11](https://user-images.githubusercontent.com/800930/207949846-0b1f856c-c7db-4b17-8225-3be703df6fe9.jpg)
 
-*NOTE: Image above is a prototype plate which uses plate mount stabalizers.  The plate in the repository file uses PCB mount stabalizers.*
+*NOTE: Image above is a prototype plate which uses plate mount stabalizers and only supports one layout.  The plate in the repository file uses PCB mount stabalizers and supports multiple layouts.*
 
 Position the 1.5mm switch plate over the foam and make sure the switch holes are lined up.  Check that the switch pins are straight, and push the switches squarely into the holes.
 
