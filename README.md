@@ -24,3 +24,5 @@ The OLED screens are not individually programmable. They’re tied to the same I
 The firmware source can be found in my fork of vial-qmk:
 
 https://github.com/dcpedit/vial-qmk/tree/vial/keyboards/dcpedit/sketchy
+
+Pre-compiled binary (hex) can be found in the [`firmware`](https://github.com/dcpedit/sketchy-sketchy/tree/main/firmware) folder
